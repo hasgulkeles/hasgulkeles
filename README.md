@@ -1,3 +1,12 @@
+
+
+<p align="center">
+  💻 <i><b>Engineer</b> / <b>Developer</b></i>
+</p>
+
+<img src="images/cat-on-treadmill.gif" alt="cat-on-treadmill-gif"/>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ![](https://komarev.com/ghpvc/?username=hasgulkeles&color=green)
 - 👋 Hi, I’m Hasgül KELEŞ
 - 👀 I’m interested in technology.
